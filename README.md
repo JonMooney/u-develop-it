@@ -27,7 +27,7 @@ The U Develop It is a project that uses API endpoints and MySQL to track a mock 
 
 ## Usage
 
-- Open the routes folder and go through the project files to see the API end points
+- Open the routes folder and go through the project files to see the API endpoints
 - Type 'npm start' to start the server
 - Open a web browser or API checking tool
 - Try the various end points to get and send data
